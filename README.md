@@ -34,6 +34,11 @@ You are the cowboys. Giddy-up.
 - Dice: A lot of mostly d6s, and a few other polyhedral dice
 - Measuring device
 
+## Playstyle
+
+This is supposed to be a fun, narrative driven game. If you are going to be super concerned about exact measurements, aggressively trying to win at all costs, or min-maxing then this is probably not the game for you.
+
+
 ## Table of Contents (in progress)
 
 - [General Concepts](./general.md)
@@ -44,6 +49,7 @@ You are the cowboys. Giddy-up.
 - [Smashing](./smashing.md)
 - [Helping](./help.md)
 - [Head for the Hills](./head-for-the-hills.md)
+- [Loot](./loot.md)
 - [Cowboys](./cowboys.md)
 - [Townsfolks](./townsfolk.md)
 - [The Law](./the-law.md)

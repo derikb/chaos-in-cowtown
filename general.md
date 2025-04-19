@@ -12,3 +12,4 @@
 - The tower must stay touching the model's base during movement... If you want to _climb_ you must lift the dice tower without any of the dice falling off.
 - If you knock down your own model's dice tower the model is Knocked Over.
 - If you knock down your opponent's dice tower that model gets a surge of adrenaline (or liquid courage). Their dice tower is removed and they are _not_ Knocked Over.
+

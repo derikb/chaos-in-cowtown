@@ -5,8 +5,8 @@
 1. Choose your cowboys.
 2. Choose a scenario.
 3. Setup your board and terrain.
-4. Add Townsfolks.
-5. Add Animals.
+4. Add Townsfolks. (how many?)
+5. Add Animals. (optional)
 6. Decide upon or mark terrain as breakable.
 
 ## Game
