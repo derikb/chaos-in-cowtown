@@ -28,6 +28,7 @@ You are the cowboys. Giddy-up.
   - Sheriff and Deputies: Depending on the scenario, a sheriff and a couple deputies
   - Animals: Never hurts to have some horses tied up out front, some pigs or chickens wandering about, and a few cows ready to escape the pen and stampede down the street
 - Loot and Item Tokens: While you can use flat tokens for loot and items, you could also use miniatures
+  - Loot comes in the form of dollars but any valuable would do for placing on the board.
 - Broken Tokens: Something you can attach to parts of terrain to indicate they are broken
   - Cardboard chits with some clear removable tape or sticky tack on the back should work to not damage your terrain/minis.
 - Dice: A lot of mostly d6s, and a few other polyhedral dice
@@ -40,11 +41,12 @@ You are the cowboys. Giddy-up.
 - [Movement](./movement.md)
 - [Shooting and Throwing](./shooting.md)
 - [Punching](./punching.md)
-- Breaking Stuff
+- [Smashing](./smashing.md)
+- [Helping](./help.md)
 - [Head for the Hills](./head-for-the-hills.md)
 - [Cowboys](./cowboys.md)
-- Townsfolks
-- The Law
+- [Townsfolks](./townsfolk.md)
+- [The Law](./the-law.md)
 - Animals
 - [Weapons](./weapons.md)
 - Scenarios
