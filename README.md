@@ -42,7 +42,7 @@ You are the cowboys. Giddy-up.
 - [Punching](./punching.md)
 - Breaking Stuff
 - [Head for the Hills](./head-for-the-hills.md)
-- Cowboys
+- [Cowboys](./cowboys.md)
 - Townsfolks
 - The Law
 - Animals
