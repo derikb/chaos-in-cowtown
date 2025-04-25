@@ -43,6 +43,7 @@ This is supposed to be a fun, narrative driven game. If you are going to be supe
 
 - [General Concepts](./general.md)
 - [Overview of a Game](./overview.md)
+- [Activation Order](./activation.md)
 - [Movement](./movement.md)
 - [Shooting and Throwing](./shooting.md)
 - [Punching](./punching.md)
