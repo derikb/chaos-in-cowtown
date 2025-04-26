@@ -13,3 +13,10 @@
 - If you knock down your own model's dice tower the model is Knocked Over.
 - If you knock down your opponent's dice tower that model gets a surge of adrenaline (or liquid courage). Their dice tower is removed and they are _not_ Knocked Over.
 
+## Terminology
+- Player: The human controlling the miniatures.
+- Opponent: Any other player from the one currently acting.
+- Cowboys: The players' models.
+- Townsfolk: NPCs models.
+- The Law: NPC models.
+
