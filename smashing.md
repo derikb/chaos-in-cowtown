@@ -8,4 +8,5 @@ Breakable terrain is broken:
 
 Breakable items are broken:
 1. If a model throws the item.
-
+2. If a model is Shoved into the item as a result of punching.
+3. If a model takes the smash action when in b2b with the item.

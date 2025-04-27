@@ -6,8 +6,13 @@ Carousing cowboys move a bit erratically. Roll their Move Dice onto the table (o
 
 ## Townsfolk
 
-Less Move Dice? (One player rolls, the other play moves them?)
-Forced movement (away from violence? towards violence?) (Maybe NPCs have an aggression die)
+Townsfolk only move when triggered.
+
+When first triggered, an opponent of the player who triggered the townsfolk, rolls the model's Fear and Aggression dice and resolves per the Townsfolk rules. This will set the mode as either fearful or aggressive.
+
+Once a townsfolk is fearful or aggressive, they always move based on that status.
+
+Roll the models' fear or aggression dice (as appropriate to status). Move per townsolks rules...
 
 ## Animals
 
@@ -18,6 +23,8 @@ Maybe a fear AND aggression die you roll both and the higher one wins? These cou
 Moving away means after the die lands you either move the distance _towards_ the die or you move the distance _away_ from the die, depending on the location of noise/violence/etc.
 
 We can then manipulate the fear/aggression of individuals by giving them higher or more dice to roll of either color.
+
+Maybe animals and townsfolk move based on the same mechanics.
 
 
 ## Obstacles

@@ -17,6 +17,6 @@
 - Player: The human controlling the miniatures.
 - Opponent: Any other player from the one currently acting.
 - Cowboys: The players' models.
-- Townsfolk: NPCs models.
+- Townsfolk: NPC models.
 - The Law: NPC models.
 
